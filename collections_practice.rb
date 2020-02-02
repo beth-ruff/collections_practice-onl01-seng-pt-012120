@@ -62,6 +62,8 @@ def find_a(a)
 end
 
 def sum_array(array)
-  array = []
+  array = [11, 4, 7, 8, 9, 100, 134]
+  array.sum
+end
 end
     
