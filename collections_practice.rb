@@ -55,5 +55,5 @@ def kesha_maker(kesha)
 end
 
 def find_a(a)
-  a = ["apple"]
+  a = ["apple", "orange", "pear", "avis", "arlo", "ascot"]
     
