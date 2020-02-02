@@ -56,5 +56,5 @@ end
 
 def find_a(a)
   a = ["apple", "orange", "pear", "avis", "arlo", "ascot"]
-  a.find {|i| i[0] = a?}
+  
     
