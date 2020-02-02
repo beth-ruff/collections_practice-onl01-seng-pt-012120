@@ -7,6 +7,8 @@ def sort_array_desc(x)
   x = [25, 7, 14]
   x.sort do |a, b|
     if a == b 
+      0 
+      
   
 end
 
