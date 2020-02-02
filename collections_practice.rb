@@ -5,7 +5,7 @@ end
 
 def sort_array_desc(x)
   x = [25, 7, 14]
-  n.sort
-  n.reverse
+  x.sort
+  x.reverse
 end
 
