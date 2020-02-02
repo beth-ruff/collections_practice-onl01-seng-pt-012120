@@ -50,7 +50,7 @@ end
 def kesha_maker(kesha)
   kesha = ["blake", "ashley", "scott"]
   kesha.each do |letter|
-    letter[3] = "$"
+    letter[2] = "$"
   end
 end
     
