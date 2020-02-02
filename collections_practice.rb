@@ -4,3 +4,7 @@ def sort_array_asc(n)
     a <=> b
   end
 end
+
+def sort_array_desc(x)
+  x = [25, 7, 14]
+  
