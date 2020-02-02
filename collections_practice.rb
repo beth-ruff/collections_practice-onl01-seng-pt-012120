@@ -16,7 +16,7 @@ def sort_array_desc(x)
   end
 end
 
-sort_array_char_count(y)
+def sort_array_char_count(y)
   y = ["dogs", "cat", "Horses"]
   y.sort do |a, b|
     if a.length == b.length
