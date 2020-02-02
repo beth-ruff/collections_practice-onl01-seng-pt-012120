@@ -57,6 +57,6 @@ end
 def find_a(a)
   a = ["apple", "orange", "pear", "avis", "arlo", "ascot"]
   a.find_all do |word|
-    word[0] == "a"
+    word[0] == "a"f
   end
     
