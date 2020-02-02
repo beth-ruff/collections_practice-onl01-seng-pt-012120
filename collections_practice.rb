@@ -28,3 +28,6 @@ def sort_array_char_count(y)
     end
   end
 end
+
+def swap_elements(z)
+  
