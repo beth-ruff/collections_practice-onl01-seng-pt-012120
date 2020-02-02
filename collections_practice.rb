@@ -8,6 +8,7 @@ def sort_array_desc(x)
   x.sort do |a, b|
     if a == b 
       0 
+    elsif a < b 
       
   
 end
