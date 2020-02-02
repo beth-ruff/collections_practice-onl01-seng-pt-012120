@@ -46,4 +46,8 @@ def reverse_array(n)
   n = [12, 4, 35]
   n.reverse
 end
+
+def kesha_maker(kesha)
+  kesha = ["blake", "ashley", "scott"]
+  
     
