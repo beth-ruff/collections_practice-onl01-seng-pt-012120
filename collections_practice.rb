@@ -60,4 +60,8 @@ def find_a(a)
     word[0] == "a"
   end
 end
+
+def sum_array(array)
+  array = []
+end
     
