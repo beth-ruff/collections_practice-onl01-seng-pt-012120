@@ -31,7 +31,7 @@ end
 
 def swap_elements(z)
   z = ["blake", "ashley", "scott"]
-  z[2, -1].sort do |a, b|
+  z.sort do |a, b|
      if a.length == b.length
       0 
     elsif a.length < b.length 
