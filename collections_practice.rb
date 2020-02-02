@@ -53,4 +53,7 @@ def kesha_maker(kesha)
     letter[2] = "$"
   end
 end
+
+def find_a(a)
+  a = ["apple"]
     
