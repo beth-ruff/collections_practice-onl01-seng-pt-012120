@@ -30,4 +30,6 @@ def sort_array_char_count(y)
 end
 
 def swap_elements(z)
-  
+  z = ["blake", "ashley", "scott"]
+  z.sort do |a, b|
+    
