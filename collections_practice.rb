@@ -41,4 +41,9 @@ def swap_elements(z)
     end
   end
 end
+
+def reverse_array(n)
+  n = [12, 4, 35]
+  n.reverse
+end
     
